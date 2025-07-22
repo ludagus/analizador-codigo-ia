@@ -18,7 +18,6 @@ Aplicación de escritorio desarrollada en Python con Kivy que analiza fragmentos
 - Python 3.9 o superior  
 - Las siguientes librerías Python (puedes instalarlas con pip):  
 
-
 ## Instalación y uso
 
 1. Clonar el repositorio:
