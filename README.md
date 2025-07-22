@@ -29,13 +29,13 @@ Aplicación de escritorio desarrollada en Python con Kivy que analiza fragmentos
 2. Instalar las dependencias
   pip install -r requirements.txt
 
-** USO **
+## USO 
 
-*Escribí o pegá el código que deseás analizar en el área de texto.
-*Hacé clic en "Analizar Código" para obtener la predicción del nivel de dificultad, feedback hablado y métricas gráficas.
-*Podés exportar el análisis actual a PDF o TXT con los botones correspondientes.
-*Visualizá el histórico de los últimos análisis con el botón "Mostrar gráfico histórico".
+- Escribí o pegá el código que deseás analizar en el área de texto.
+- Hacé clic en "Analizar Código" para obtener la predicción del nivel de dificultad, feedback hablado y métricas gráficas.
+- Podés exportar el análisis actual a PDF o TXT con los botones correspondientes.
+- Visualizá el histórico de los últimos análisis con el botón "Mostrar gráfico histórico".
 
---Autores:--
-* Jésica S. Sténico
-* Laura R. Pared
+## Autores:
+- Jésica S. Sténico
+- Laura R. Pared
